@@ -5,6 +5,11 @@
 
 ## 使い方
 
+次の順番で使う
+- `get_hatena_blogger.py`
+- `get_info.py`
+- `analyze.ipynb`
+
 ### `get_hatena_blogger.py`
 
 - はてなブロガーを集めてくる
